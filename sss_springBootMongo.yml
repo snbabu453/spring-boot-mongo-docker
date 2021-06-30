@@ -1,4 +1,4 @@
-# Config Map
+# Config Mapps
 kind: ConfigMap 
 apiVersion: v1 
 metadata:
